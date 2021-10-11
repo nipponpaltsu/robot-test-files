@@ -4,6 +4,4 @@ This is a test repo for Robot Framework Language files.
 
 From Amandus with love
 
-Commiting from GH
-
-Committing from Amandus <3
+Hello, is it Amandus you looking for?
