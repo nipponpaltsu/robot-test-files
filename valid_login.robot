@@ -1,8 +1,6 @@
 *** Settings ***
 Documentation     A test suite with a single test for valid login.
-...               A Test commit from Amandus!
-...               Another one from Amandus!
-...               A Test commit from Amandus! Merge conflict!!
+...               
 ...               is a conflict
 ...               This test has a workflow that is created using keywords in
 ...               the imported resource file.
