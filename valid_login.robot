@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A test suite with a single test for valid login.
-...               det är dags att för en merge conflict~
+...               Time for another merge conflict
 ...               is a conflict
 ...               This test has a workflow that is created using keywords in
 ...               the imported resource file.
