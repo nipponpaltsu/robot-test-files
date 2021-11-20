@@ -15,10 +15,11 @@ Valid Login
     Welcome Page Should Be Open
     [Teardown]    Close Browser
 
-Bad Login
-    Open Browser To Login Page
+Bad Login    
+    Open Browser To Login Page  
     Input Username    bad123
     Input Password    bad
     Submit Credentials
     Welcome Page Should Be Not Open
     [Teardown]    Close Browser
+    This should not give merge conflict
