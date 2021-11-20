@@ -8,6 +8,4 @@ Hello, is it Amandus you looking for?
 
 I can see it in your eyes!
 
-Lets edit this too a bit in Amandus
-
-Lets try editing without commit message
+Lets edit this too a bit in github.
