@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation     A test suite with a single test for valid login.
 ...               i'mma edit this in Amandus!
+...               This edit is made from github
 ...               is a conflict
 ...               This test has a workflow that is created using keywords in
 ...               the imported resource file.
