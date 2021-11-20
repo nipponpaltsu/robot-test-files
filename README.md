@@ -10,4 +10,4 @@ I can see it in your eyes!
 
 Lets edit this too a bit in Amandus
 
-merge conflict blues oh yeah.
+Time to solve some conflicts.
